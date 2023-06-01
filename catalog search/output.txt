@@ -1,0 +1,64 @@
+Catalog Read: book
+Exception: duplicate entry
+"The Great Gatsby" "F. Scott Fitzgerald" "1925" "Classic, Fiction"
+4 unique entries
+Exception: command is wrong
+search "Algorithms" in "artists"
+search "Introduction" in "title"
+"Introduction to Algorithms" "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein" "2009" "Computer Science, Algorithms"
+sort "year"
+"Harry Potter and the Sorcerer's Stone" "J.K. Rowling" "" "Fantasy, Fiction"
+"The Great Gatsby" "F. Scott Fitzgerald" "1925" "Classic, Fiction"
+"Introduction to Algorithms" "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein" "2009" "Computer Science, Algorithms"
+"Programming Principles and Practice Using C++" "Bjarne Stroustrup" "2009" "Computer Science, Programming, C++"
+Exception: command is wrong
+search "Fiction" in "genre"
+Exception: command is wrong
+search "AC/DC" in "artists"
+sort "title"
+"Harry Potter and the Sorcerer's Stone" "J.K. Rowling" "" "Fantasy, Fiction"
+"Introduction to Algorithms" "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein" "2009" "Computer Science, Algorithms"
+"Programming Principles and Practice Using C++" "Bjarne Stroustrup" "2009" "Computer Science, Programming, C++"
+"The Great Gatsby" "F. Scott Fitzgerald" "1925" "Classic, Fiction"
+Exception: command is wrong
+search "Mystery" in "genre"
+sort "year"
+"Harry Potter and the Sorcerer's Stone" "J.K. Rowling" "" "Fantasy, Fiction"
+"The Great Gatsby" "F. Scott Fitzgerald" "1925" "Classic, Fiction"
+"Introduction to Algorithms" "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein" "2009" "Computer Science, Algorithms"
+"Programming Principles and Practice Using C++" "Bjarne Stroustrup" "2009" "Computer Science, Programming, C++"
+search "C++" in "tags"
+"Programming Principles and Practice Using C++" "Bjarne Stroustrup" "2009" "Computer Science, Programming, C++"
+Exception: command is wrong
+search "Rock" in "genre"
+Exception: command is wrong
+sort "artists"
+Exception: command is wrong
+search "Drama" in "genre"
+sort "title"
+"Harry Potter and the Sorcerer's Stone" "J.K. Rowling" "" "Fantasy, Fiction"
+"Introduction to Algorithms" "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein" "2009" "Computer Science, Algorithms"
+"Programming Principles and Practice Using C++" "Bjarne Stroustrup" "2009" "Computer Science, Programming, C++"
+"The Great Gatsby" "F. Scott Fitzgerald" "1925" "Classic, Fiction"
+search "Thriller" in "title"
+search "Missing Field" in "authors"
+sort "year"
+"Harry Potter and the Sorcerer's Stone" "J.K. Rowling" "" "Fantasy, Fiction"
+"The Great Gatsby" "F. Scott Fitzgerald" "1925" "Classic, Fiction"
+"Introduction to Algorithms" "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein" "2009" "Computer Science, Algorithms"
+"Programming Principles and Practice Using C++" "Bjarne Stroustrup" "2009" "Computer Science, Programming, C++"
+Exception: command is wrong
+search "Sci-Fi" in "genre"
+search "Duplicate Entry" in "title"
+sort "year"
+"Harry Potter and the Sorcerer's Stone" "J.K. Rowling" "" "Fantasy, Fiction"
+"The Great Gatsby" "F. Scott Fitzgerald" "1925" "Classic, Fiction"
+"Introduction to Algorithms" "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein" "2009" "Computer Science, Algorithms"
+"Programming Principles and Practice Using C++" "Bjarne Stroustrup" "2009" "Computer Science, Programming, C++"
+Exception: command is wrong
+sort "unknown_field"
+search "Command Exception" in "title"
+Exception: command is wrong
+search "arda" in "int" "genre"
+Exception: command is wrong
+sort "arda"

@@ -1,0 +1,85 @@
+Catalog Read: movie
+Exception: duplicate entry
+"Interstellar" "Christopher Nolan" "2014" "Sci-Fi, Adventure" "Matthew McConaughey, Anne Hathaway"
+4 unique entries
+search "Potter" in "title"
+Exception: command is wrong
+search "C++" in "tags"
+search "Rock" in "genre"
+sort "year"
+" " "Francis Ford Coppola" "1972" "Crime, Drama" "Marlon Brando, Al Pacino, James Caan"
+"The Shawshank Redemption" "Frank Darabont" "1994" "Drama" "Tim Robbins, Morgan Freeman"
+"Fight Club" "David Fincher" "1999" "Drama" "Brad Pitt, Edward Norton, Helena Bonham Carter"
+"Interstellar" "" "2014" "Sci-Fi, Adventure" "Matthew McConaughey, Anne Hathaway"
+Exception: command is wrong
+search "Eagles" in "artists"
+sort "title"
+" " "Francis Ford Coppola" "1972" "Crime, Drama" "Marlon Brando, Al Pacino, James Caan"
+"Fight Club" "David Fincher" "1999" "Drama" "Brad Pitt, Edward Norton, Helena Bonham Carter"
+"Interstellar" "" "2014" "Sci-Fi, Adventure" "Matthew McConaughey, Anne Hathaway"
+"The Shawshank Redemption" "Frank Darabont" "1994" "Drama" "Tim Robbins, Morgan Freeman"
+Exception: command is wrong
+search "Fiction" in "tags"
+Exception: command is wrong
+sort "artists"
+search "Drama" in "genre"
+" " "Francis Ford Coppola" "1972" "Crime, Drama" "Marlon Brando, Al Pacino, James Caan"
+"Fight Club" "David Fincher" "1999" "Drama" "Brad Pitt, Edward Norton, Helena Bonham Carter"
+"The Shawshank Redemption" "Frank Darabont" "1994" "Drama" "Tim Robbins, Morgan Freeman"
+sort "title"
+" " "Francis Ford Coppola" "1972" "Crime, Drama" "Marlon Brando, Al Pacino, James Caan"
+"Fight Club" "David Fincher" "1999" "Drama" "Brad Pitt, Edward Norton, Helena Bonham Carter"
+"Interstellar" "" "2014" "Sci-Fi, Adventure" "Matthew McConaughey, Anne Hathaway"
+"The Shawshank Redemption" "Frank Darabont" "1994" "Drama" "Tim Robbins, Morgan Freeman"
+Exception: command is wrong
+search "Algorithms" in "tags"
+Exception: command is wrong
+search "AC/DC" in "artists"
+Exception: command is wrong
+search "C++" in "tags"
+Exception: command is wrong
+sort "artists"
+Exception: command is wrong
+search "Missing Field" in "authors"
+Exception: command is wrong
+sort "unknown_field"
+Exception: duplicate entry
+"Interstellar" "Christopher Nolan" "2014" "Sci-Fi, Adventure" "Matthew McConaughey, Anne Hathaway"
+Exception: missing field
+"The Godfather" "1972" "Crime, Drama" "Marlon Brando, Al Pacino, James Caan"
+Exception: command is wrong
+search "Algorithms" in "tags"
+Exception: command is wrong
+search "AC/DC" in "artists"
+Exception: command is wrong
+search "C++" in "tags"
+Exception: command is wrong
+sort "artists"
+Exception: command is wrong
+search "Missing Field" in "authors"
+Exception: command is wrong
+sort "unknown_field"
+Exception: command is wrong
+search "arda" in "int" "genre"
+Exception: command is wrong
+sort "arda"
+Exception: duplicate entry
+"Interstellar" "Christopher Nolan" "2014" "Sci-Fi, Adventure" "Matthew McConaughey, Anne Hathaway"
+Exception: missing field
+"The Godfather" "1972" "Crime, Drama" "Marlon Brando, Al Pacino, James Caan"
+Exception: command is wrong
+search "Algorithms" in "tags"
+Exception: command is wrong
+search "AC/DC" in "artists"
+Exception: command is wrong
+search "C++" in "tags"
+Exception: command is wrong
+sort "artists"
+Exception: command is wrong
+search "Missing Field" in "authors"
+Exception: command is wrong
+sort "unknown_field"
+Exception: command is wrong
+search "arda" in "int" "genre"
+Exception: command is wrong
+sort "arda"

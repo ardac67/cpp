@@ -1,0 +1,6 @@
+book
+"Introduction to Algorithms" "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein" "2009" "Computer Science, Algorithms"
+"The Great Gatsby" "F. Scott Fitzgerald" "1925" "Classic, Fiction"
+"Programming Principles and Practice Using C++" "Bjarne Stroustrup" "2009" "Computer Science, Programming, C++"
+"Harry Potter and the Sorcerer's Stone" "J.K. Rowling" "" "Fantasy, Fiction"
+"The Great Gatsby" "F. Scott Fitzgerald" "1925" "Classic, Fiction"
